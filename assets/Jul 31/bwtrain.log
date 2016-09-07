@@ -1,0 +1,66 @@
+### Standard Logistic Regression
+Test => Error Rate: 0.2991
+Test => Error Rate: 0.2849
+Test => Error Rate: 0.2564
+Test => Error Rate: 0.2393
+Test => Error Rate: 0.2108
+Test => Error Rate: 0.2051
+Test => Error Rate: 0.2051
+Test => Error Rate: 0.1966
+Test => Error Rate: 0.1880
+Test => Error Rate: 0.1852
+Test => Error Rate: 0.1709
+Test => Error Rate: 0.1595
+Test => Error Rate: 0.1624
+Test => Error Rate: 0.1510
+Test => Error Rate: 0.1425
+Test => Error Rate: 0.1481
+Test => Error Rate: 0.1453
+Test => Error Rate: 0.1368
+Test => Error Rate: 0.1311
+Test => Error Rate: 0.1311
+Test => Error Rate: 0.1339
+Test => Error Rate: 0.1311
+Test => Error Rate: 0.1282
+Test => Error Rate: 0.1311
+Test => Error Rate: 0.1311
+Test => Error Rate: 0.1282
+Test => Error Rate: 0.1282
+Test => Error Rate: 0.1197
+Test => Error Rate: 0.1197
+Test => Error Rate: 0.1197
+
+
+### Bitwidth Constrained Logistic Regression
+Bit Limit for the system is 210, Parameter Num: 35
+Validation => Error Rate: 0.1766, Bit Use: 225
+Validation => Error Rate: 0.1766, Bit Use: 208
+Validation => Error Rate: 0.1510, Bit Use: 218
+Validation => Error Rate: 0.1481, Bit Use: 203
+Validation => Error Rate: 0.1709, Bit Use: 198
+Validation => Error Rate: 0.1396, Bit Use: 215
+Validation => Error Rate: 0.1140, Bit Use: 235
+Validation => Error Rate: 0.1083, Bit Use: 206
+Validation => Error Rate: 0.1339, Bit Use: 230
+Validation => Error Rate: 0.1168, Bit Use: 224
+Validation => Error Rate: 0.1311, Bit Use: 219
+Validation => Error Rate: 0.1225, Bit Use: 222
+Validation => Error Rate: 0.1225, Bit Use: 213
+Validation => Error Rate: 0.1282, Bit Use: 216
+Validation => Error Rate: 0.1140, Bit Use: 211
+Validation => Error Rate: 0.1083, Bit Use: 216
+Validation => Error Rate: 0.1168, Bit Use: 202
+Validation => Error Rate: 0.1168, Bit Use: 202
+Validation => Error Rate: 0.0997, Bit Use: 200
+Validation => Error Rate: 0.1396, Bit Use: 214
+Validation => Error Rate: 0.0912, Bit Use: 217
+Validation => Error Rate: 0.1111, Bit Use: 223
+Validation => Error Rate: 0.0997, Bit Use: 200
+Validation => Error Rate: 0.1083, Bit Use: 201
+Validation => Error Rate: 0.1652, Bit Use: 219
+Validation => Error Rate: 0.1140, Bit Use: 227
+Validation => Error Rate: 0.1168, Bit Use: 220
+Validation => Error Rate: 0.1225, Bit Use: 204
+Validation => Error Rate: 0.1197, Bit Use: 230
+Validation => Error Rate: 0.1054, Bit Use: 207
+Average 10 bit per Weight Value, 1 sign bit, 3 interger bit, 6 float bit. 
